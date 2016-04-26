@@ -1,2 +1,3 @@
 # objectgraphdb
-A multi-model java API for OrientDB built on top of OrietnDB's Object API
+A multi-model java API for OrientDB built on top of OrientDB's Object API
+
